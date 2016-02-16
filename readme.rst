@@ -2,27 +2,19 @@
 Fall2015 lab 04
 ###############
 
-This project is the starter for COMP4711 Lab 4, for the Fall 2015 session.
+Alex Kyle
+Sivan Alkalay
 
-This webapp is broken. On purpose :) 
-Your job is to fix it, following the directions in lab 04.
+newest changes at top:
 
-*******************
-Server Requirements
-*******************
-
-CodeIgniter 3.0
-
-*******
-License
-*******
-
-Please see the `license
-agreement <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/license.rst>`_.
-
-*********
-Resources
-*********
-
--  `CodeIgniter <http://codeigniter.com>`_
+2016-02-15 1905 - merged to master branch
+2016-02-15 1855 - Part 7 done
+2016-02-15 1755 - Part 6 done
+2016-02-15 1733 - Part 5 done
+2016-02-15 1720 - Part 4 done
+2016-02-15 1655 - Part 3 done
+2016-02-15 1642 - Part 2 done
+2016-02-15 1630 - Part 1 done
+2016-02-15 1622 - readme changed
+2016-02-15 1621 - readme created
 
